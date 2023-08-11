@@ -1,0 +1,57 @@
+[
+    {
+        "calculationDate": "20180123",
+        "outstanding": 6324.0
+    },
+    {
+        "calculationDate": "20180130",
+        "outstanding": 18253.0
+    },
+    {
+        "calculationDate": "20180318",
+        "outstanding": 58.0
+    },
+    {
+        "calculationDate": "20180213",
+        "outstanding": 37363.0
+    },
+    {
+        "calculationDate": "20180223",
+        "outstanding": 1499.0
+    },
+    {
+        "calculationDate": "20180218",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20180331",
+        "outstanding": 26328.0
+    },
+    {
+        "calculationDate": "20180423",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20180408",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20180418",
+        "outstanding": 5358.0
+    },
+    {
+        "calculationDate": "20180209"
+    },
+    {
+        "calculationDate": "20180413",
+        "outstanding": 5247.0
+    },
+    {
+        "calculationDate": "20180313",
+        "outstanding": 2999.0
+    },
+    {
+        "calculationDate": "20180203",
+        "outstanding": 19997.0
+    }
+]

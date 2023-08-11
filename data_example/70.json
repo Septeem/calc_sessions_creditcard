@@ -1,0 +1,57 @@
+[
+    {
+        "calculationDate": "20230515"
+    },
+    {
+        "calculationDate": "20230502",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20230403",
+        "outstanding": 100.0
+    },
+    {
+        "calculationDate": "20230522",
+        "outstanding": 9598.51
+    },
+    {
+        "calculationDate": "20230430",
+        "outstanding": 299.0
+    },
+    {
+        "calculationDate": "20230517",
+        "outstanding": 5620.34
+    },
+    {
+        "calculationDate": "20230420",
+        "outstanding": 1149.08
+    },
+    {
+        "calculationDate": "20230501",
+        "outstanding": 1725.82
+    },
+    {
+        "calculationDate": "20230519",
+        "outstanding": 6941.85
+    },
+    {
+        "calculationDate": "20230520",
+        "outstanding": 9998.51
+    },
+    {
+        "calculationDate": "20230516",
+        "outstanding": 3363.85
+    },
+    {
+        "calculationDate": "20230422",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20230518",
+        "outstanding": 6866.77
+    },
+    {
+        "calculationDate": "20230531",
+        "outstanding": 9098.51
+    }
+]

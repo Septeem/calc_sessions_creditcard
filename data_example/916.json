@@ -1,0 +1,528 @@
+[
+    {
+        "calculationDate": "20220110",
+        "outstanding": 31002.0
+    },
+    {
+        "calculationDate": "20200713",
+        "outstanding": 39917.0
+    },
+    {
+        "calculationDate": "20220407",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200427",
+        "outstanding": 22267.0
+    },
+    {
+        "calculationDate": "20200330",
+        "outstanding": 34931.0
+    },
+    {
+        "calculationDate": "20200326",
+        "outstanding": 39512.0
+    },
+    {
+        "calculationDate": "20211223",
+        "outstanding": 28738.0
+    },
+    {
+        "calculationDate": "20210802",
+        "outstanding": 38800.0
+    },
+    {
+        "calculationDate": "20200625",
+        "outstanding": 39917.0
+    },
+    {
+        "calculationDate": "20220103",
+        "outstanding": 28738.0
+    },
+    {
+        "calculationDate": "20201026",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20210201",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220216",
+        "outstanding": 4113.0
+    },
+    {
+        "calculationDate": "20220427",
+        "outstanding": 25659.0
+    },
+    {
+        "calculationDate": "20210624",
+        "outstanding": 1190.0
+    },
+    {
+        "calculationDate": "20210805",
+        "outstanding": 18799.0
+    },
+    {
+        "calculationDate": "20220128",
+        "outstanding": 22962.0
+    },
+    {
+        "calculationDate": "20210104",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200608",
+        "outstanding": 36765.0
+    },
+    {
+        "calculationDate": "20220214",
+        "outstanding": 3973.0
+    },
+    {
+        "calculationDate": "20200525",
+        "outstanding": 27556.0
+    },
+    {
+        "calculationDate": "20220422",
+        "outstanding": 4049.0
+    },
+    {
+        "calculationDate": "20220620",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200409",
+        "outstanding": 39045.0
+    },
+    {
+        "calculationDate": "20210906",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20191117",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200910",
+        "outstanding": 38174.0
+    },
+    {
+        "calculationDate": "20220513",
+        "outstanding": 1497.0
+    },
+    {
+        "calculationDate": "20211207",
+        "outstanding": 16800.0
+    },
+    {
+        "calculationDate": "20200820",
+        "outstanding": 39374.0
+    },
+    {
+        "calculationDate": "20220511",
+        "outstanding": 789.0
+    },
+    {
+        "calculationDate": "20201221",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220202",
+        "outstanding": 37096.0
+    },
+    {
+        "calculationDate": "20210812",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200514",
+        "outstanding": 15335.0
+    },
+    {
+        "calculationDate": "20220204",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220415",
+        "outstanding": 12231.0
+    },
+    {
+        "calculationDate": "20200127",
+        "outstanding": 5335.0
+    },
+    {
+        "calculationDate": "20211215",
+        "outstanding": 16800.0
+    },
+    {
+        "calculationDate": "20200323",
+        "outstanding": 39369.0
+    },
+    {
+        "calculationDate": "20191208",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220405",
+        "outstanding": 9081.0
+    },
+    {
+        "calculationDate": "20200203",
+        "outstanding": 12577.0
+    },
+    {
+        "calculationDate": "20200423",
+        "outstanding": 20711.0
+    },
+    {
+        "calculationDate": "20220228",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220223",
+        "outstanding": 12743.0
+    },
+    {
+        "calculationDate": "20220413",
+        "outstanding": 11703.0
+    },
+    {
+        "calculationDate": "20200227",
+        "outstanding": 34579.0
+    },
+    {
+        "calculationDate": "20220401",
+        "outstanding": 7893.0
+    },
+    {
+        "calculationDate": "20211021",
+        "outstanding": 23566.0
+    },
+    {
+        "calculationDate": "20220705",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20210401",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220429",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200810",
+        "outstanding": 39374.0
+    },
+    {
+        "calculationDate": "20200430",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20210301",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200727",
+        "outstanding": 38917.0
+    },
+    {
+        "calculationDate": "20211011",
+        "outstanding": 19568.0
+    },
+    {
+        "calculationDate": "20200224",
+        "outstanding": 34351.0
+    },
+    {
+        "calculationDate": "20210701",
+        "outstanding": 40000.0
+    },
+    {
+        "calculationDate": "20220425",
+        "outstanding": 13925.0
+    },
+    {
+        "calculationDate": "20210628",
+        "outstanding": 40000.0
+    },
+    {
+        "calculationDate": "20220411",
+        "outstanding": 5639.0
+    },
+    {
+        "calculationDate": "20200611",
+        "outstanding": 37025.0
+    },
+    {
+        "calculationDate": "20200206",
+        "outstanding": 15131.0
+    },
+    {
+        "calculationDate": "20220419",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20210809",
+        "outstanding": 18799.0
+    },
+    {
+        "calculationDate": "20200213",
+        "outstanding": 23284.0
+    },
+    {
+        "calculationDate": "20220606"
+    },
+    {
+        "calculationDate": "20211007",
+        "outstanding": 29569.0
+    },
+    {
+        "calculationDate": "20210426",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200210",
+        "outstanding": 17619.0
+    },
+    {
+        "calculationDate": "20200303",
+        "outstanding": 35207.0
+    },
+    {
+        "calculationDate": "20220106",
+        "outstanding": 31002.0
+    },
+    {
+        "calculationDate": "20200312",
+        "outstanding": 38520.0
+    },
+    {
+        "calculationDate": "20220330",
+        "outstanding": 5594.0
+    },
+    {
+        "calculationDate": "20200319",
+        "outstanding": 39369.0
+    },
+    {
+        "calculationDate": "20210503",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200803",
+        "outstanding": 39374.0
+    },
+    {
+        "calculationDate": "20201203",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20211220",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220125",
+        "outstanding": 20462.0
+    },
+    {
+        "calculationDate": "20211004",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220207",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200406",
+        "outstanding": 35410.0
+    },
+    {
+        "calculationDate": "20200928",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220221",
+        "outstanding": 4743.0
+    },
+    {
+        "calculationDate": "20201110",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20191215",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220328",
+        "outstanding": 1214.0
+    },
+    {
+        "calculationDate": "20200316"
+    },
+    {
+        "calculationDate": "20200420",
+        "outstanding": 9748.0
+    },
+    {
+        "calculationDate": "20200702",
+        "outstanding": 39917.0
+    },
+    {
+        "calculationDate": "20200309",
+        "outstanding": 35527.0
+    },
+    {
+        "calculationDate": "20220309",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200504",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200305",
+        "outstanding": 35207.0
+    },
+    {
+        "calculationDate": "20220408",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20210603",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20191110",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200217",
+        "outstanding": 23666.0
+    },
+    {
+        "calculationDate": "20200622",
+        "outstanding": 39436.0
+    },
+    {
+        "calculationDate": "20200618",
+        "outstanding": 37680.0
+    },
+    {
+        "calculationDate": "20201106",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220520",
+        "outstanding": 997.0
+    },
+    {
+        "calculationDate": "20220524",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200601",
+        "outstanding": 30287.0
+    },
+    {
+        "calculationDate": "20201102",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20210920",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20201214",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220530",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20211014",
+        "outstanding": 21904.0
+    },
+    {
+        "calculationDate": "20200130",
+        "outstanding": 12148.0
+    },
+    {
+        "calculationDate": "20220131",
+        "outstanding": 30984.0
+    },
+    {
+        "calculationDate": "20220318",
+        "outstanding": 4817.0
+    },
+    {
+        "calculationDate": "20200416",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20220306",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20210304",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200903",
+        "outstanding": 38174.0
+    },
+    {
+        "calculationDate": "20200914",
+        "outstanding": 38648.0
+    },
+    {
+        "calculationDate": "20211217",
+        "outstanding": 12216.0
+    },
+    {
+        "calculationDate": "20200604",
+        "outstanding": 33968.0
+    },
+    {
+        "calculationDate": "20211211",
+        "outstanding": 16800.0
+    },
+    {
+        "calculationDate": "20200730",
+        "outstanding": 38917.0
+    },
+    {
+        "calculationDate": "20220211",
+        "outstanding": 2346.0
+    },
+    {
+        "calculationDate": "20200528",
+        "outstanding": 28475.0
+    },
+    {
+        "calculationDate": "20220225",
+        "outstanding": 17167.0
+    },
+    {
+        "calculationDate": "20200615",
+        "outstanding": 37158.0
+    },
+    {
+        "calculationDate": "20210607",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20211025",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200413",
+        "outstanding": 39580.0
+    },
+    {
+        "calculationDate": "20200220",
+        "outstanding": 24084.0
+    }
+]

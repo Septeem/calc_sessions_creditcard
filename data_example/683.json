@@ -1,0 +1,46 @@
+[
+    {
+        "calculationDate": "20230501",
+        "outstanding": 25000.0
+    },
+    {
+        "calculationDate": "20230515",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20230507",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20230605",
+        "outstanding": 7574.0
+    },
+    {
+        "calculationDate": "20230613",
+        "outstanding": 9000.0
+    },
+    {
+        "calculationDate": "20230610",
+        "outstanding": 8000.0
+    },
+    {
+        "calculationDate": "20230521",
+        "outstanding": 25000.0
+    },
+    {
+        "calculationDate": "20230525",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20230608",
+        "outstanding": 8000.0
+    },
+    {
+        "calculationDate": "20230603",
+        "outstanding": 7574.0
+    },
+    {
+        "calculationDate": "20230509",
+        "outstanding": 25000.0
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "calculationDate": "20230110",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20221117",
+        "outstanding": 38000.0
+    },
+    {
+        "calculationDate": "20230515",
+        "outstanding": 6500.0
+    },
+    {
+        "calculationDate": "20230327",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20230306",
+        "outstanding": 3000.0
+    },
+    {
+        "calculationDate": "20230529",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20221212",
+        "outstanding": 24800.0
+    },
+    {
+        "calculationDate": "20230206",
+        "outstanding": 6000.0
+    },
+    {
+        "calculationDate": "20221226",
+        "outstanding": 1800.0
+    }
+]

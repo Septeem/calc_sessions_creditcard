@@ -1,0 +1,594 @@
+[
+    {
+        "calculationDate": "20171116",
+        "outstanding": 49461.0
+    },
+    {
+        "calculationDate": "20170131",
+        "outstanding": 261.0
+    },
+    {
+        "calculationDate": "20171011",
+        "outstanding": 9663.0
+    },
+    {
+        "calculationDate": "20160531",
+        "outstanding": 21062.0
+    },
+    {
+        "calculationDate": "20130628",
+        "outstanding": 25447.0
+    },
+    {
+        "calculationDate": "20190905",
+        "outstanding": 46081.0
+    },
+    {
+        "calculationDate": "20171025",
+        "outstanding": 50297.0
+    },
+    {
+        "calculationDate": "20181025",
+        "outstanding": 10406.0
+    },
+    {
+        "calculationDate": "20140831",
+        "outstanding": 36589.0
+    },
+    {
+        "calculationDate": "20200123",
+        "outstanding": 22168.0
+    },
+    {
+        "calculationDate": "20190306",
+        "outstanding": 1063.0
+    },
+    {
+        "calculationDate": "20191128",
+        "outstanding": 64240.0
+    },
+    {
+        "calculationDate": "20121101",
+        "outstanding": 25557.0
+    },
+    {
+        "calculationDate": "20200213",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20180927",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20150531",
+        "outstanding": 43578.0
+    },
+    {
+        "calculationDate": "20161031",
+        "outstanding": 285.0
+    },
+    {
+        "calculationDate": "20151231",
+        "outstanding": 26134.0
+    },
+    {
+        "calculationDate": "20141130",
+        "outstanding": 106910.0
+    },
+    {
+        "calculationDate": "20171004",
+        "outstanding": 7703.0
+    },
+    {
+        "calculationDate": "20180726",
+        "outstanding": 44572.0
+    },
+    {
+        "calculationDate": "20121001",
+        "outstanding": 61186.0
+    },
+    {
+        "calculationDate": "20180124",
+        "outstanding": 10035.0
+    },
+    {
+        "calculationDate": "20190808",
+        "outstanding": 55349.0
+    },
+    {
+        "calculationDate": "20150923",
+        "outstanding": 12577.0
+    },
+    {
+        "calculationDate": "20180513",
+        "outstanding": 9924.0
+    },
+    {
+        "calculationDate": "20170430",
+        "outstanding": 52459.0
+    },
+    {
+        "calculationDate": "20200110",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20200305",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20130930",
+        "outstanding": 65793.0
+    },
+    {
+        "calculationDate": "20190704",
+        "outstanding": 52979.0
+    },
+    {
+        "calculationDate": "20180117",
+        "outstanding": 59135.0
+    },
+    {
+        "calculationDate": "20180628",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20181004",
+        "outstanding": 3012.0
+    },
+    {
+        "calculationDate": "20150331",
+        "outstanding": 11435.0
+    },
+    {
+        "calculationDate": "20120601",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20190801",
+        "outstanding": 51541.0
+    },
+    {
+        "calculationDate": "20120401",
+        "outstanding": 19456.0
+    },
+    {
+        "calculationDate": "20191031",
+        "outstanding": 68424.0
+    },
+    {
+        "calculationDate": "20150930",
+        "outstanding": 13835.0
+    },
+    {
+        "calculationDate": "20180207",
+        "outstanding": 104967.0
+    },
+    {
+        "calculationDate": "20130101",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20190829",
+        "outstanding": 46081.0
+    },
+    {
+        "calculationDate": "20120901",
+        "outstanding": 8887.0
+    },
+    {
+        "calculationDate": "20191205",
+        "outstanding": 17299.0
+    },
+    {
+        "calculationDate": "20170331",
+        "outstanding": 35051.0
+    },
+    {
+        "calculationDate": "20171122",
+        "outstanding": 50161.0
+    },
+    {
+        "calculationDate": "20180906",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20180705",
+        "outstanding": 8167.0
+    },
+    {
+        "calculationDate": "20180528",
+        "outstanding": 2023.0
+    },
+    {
+        "calculationDate": "20180809",
+        "outstanding": 34538.0
+    },
+    {
+        "calculationDate": "20141231",
+        "outstanding": 80176.0
+    },
+    {
+        "calculationDate": "20150430",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20120301",
+        "outstanding": 20750.0
+    },
+    {
+        "calculationDate": "20120201",
+        "outstanding": 9233.0
+    },
+    {
+        "calculationDate": "20150228",
+        "outstanding": 10424.0
+    },
+    {
+        "calculationDate": "20151031",
+        "outstanding": 18457.0
+    },
+    {
+        "calculationDate": "20111201",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20160430",
+        "outstanding": 5930.0
+    },
+    {
+        "calculationDate": "20130430",
+        "outstanding": 11403.0
+    },
+    {
+        "calculationDate": "20170731",
+        "outstanding": 53950.0
+    },
+    {
+        "calculationDate": "20140228",
+        "outstanding": 37876.0
+    },
+    {
+        "calculationDate": "20190124",
+        "outstanding": 45156.0
+    },
+    {
+        "calculationDate": "20120701",
+        "outstanding": 61006.0
+    },
+    {
+        "calculationDate": "20180107",
+        "outstanding": 46458.0
+    },
+    {
+        "calculationDate": "20151130",
+        "outstanding": 5767.0
+    },
+    {
+        "calculationDate": "20120101",
+        "outstanding": 58763.0
+    },
+    {
+        "calculationDate": "20170531",
+        "outstanding": 45185.0
+    },
+    {
+        "calculationDate": "20131231",
+        "outstanding": 10133.0
+    },
+    {
+        "calculationDate": "20180228",
+        "outstanding": 15112.0
+    },
+    {
+        "calculationDate": "20161130",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20150731",
+        "outstanding": 68058.0
+    },
+    {
+        "calculationDate": "20170630",
+        "outstanding": 34830.0
+    },
+    {
+        "calculationDate": "20130330",
+        "outstanding": 3969.0
+    },
+    {
+        "calculationDate": "20140430",
+        "outstanding": 33092.0
+    },
+    {
+        "calculationDate": "20181206",
+        "outstanding": 87735.0
+    },
+    {
+        "calculationDate": "20150831",
+        "outstanding": 114718.0
+    },
+    {
+        "calculationDate": "20190110",
+        "outstanding": 59924.0
+    },
+    {
+        "calculationDate": "20131031",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20190516",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20180604",
+        "outstanding": 7523.0
+    },
+    {
+        "calculationDate": "20180221",
+        "outstanding": 9966.0
+    },
+    {
+        "calculationDate": "20171018",
+        "outstanding": 30674.0
+    },
+    {
+        "calculationDate": "20150630",
+        "outstanding": 88053.0
+    },
+    {
+        "calculationDate": "20190627",
+        "outstanding": 52979.0
+    },
+    {
+        "calculationDate": "20160831",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20191003",
+        "outstanding": 19308.0
+    },
+    {
+        "calculationDate": "20191107",
+        "outstanding": 68424.0
+    },
+    {
+        "calculationDate": "20160930",
+        "outstanding": 4505.0
+    },
+    {
+        "calculationDate": "20160630",
+        "outstanding": 3068.0
+    },
+    {
+        "calculationDate": "20160331",
+        "outstanding": 16165.0
+    },
+    {
+        "calculationDate": "20180426",
+        "outstanding": 33993.0
+    },
+    {
+        "calculationDate": "20160131",
+        "outstanding": 38352.0
+    },
+    {
+        "calculationDate": "20180214",
+        "outstanding": 3468.0
+    },
+    {
+        "calculationDate": "20171129",
+        "outstanding": 6884.0
+    },
+    {
+        "calculationDate": "20140131",
+        "outstanding": 33423.0
+    },
+    {
+        "calculationDate": "20150131",
+        "outstanding": 40033.0
+    },
+    {
+        "calculationDate": "20171213",
+        "outstanding": 33442.0
+    },
+    {
+        "calculationDate": "20170927",
+        "outstanding": 497.0
+    },
+    {
+        "calculationDate": "20181227",
+        "outstanding": 46305.0
+    },
+    {
+        "calculationDate": "20190117",
+        "outstanding": 77450.0
+    },
+    {
+        "calculationDate": "20130531",
+        "outstanding": 35702.0
+    },
+    {
+        "calculationDate": "20171101",
+        "outstanding": 44168.0
+    },
+    {
+        "calculationDate": "20171109",
+        "outstanding": 45821.0
+    },
+    {
+        "calculationDate": "20190507",
+        "outstanding": 173.0
+    },
+    {
+        "calculationDate": "20180404",
+        "outstanding": 23871.0
+    },
+    {
+        "calculationDate": "20181122",
+        "outstanding": 37194.0
+    },
+    {
+        "calculationDate": "20190426",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20140331",
+        "outstanding": 32625.0
+    },
+    {
+        "calculationDate": "20181108",
+        "outstanding": 35900.0
+    },
+    {
+        "calculationDate": "20171206",
+        "outstanding": 7184.0
+    },
+    {
+        "calculationDate": "20190404",
+        "outstanding": 40043.0
+    },
+    {
+        "calculationDate": "20190926",
+        "outstanding": 19308.0
+    },
+    {
+        "calculationDate": "20190523",
+        "outstanding": 17408.0
+    },
+    {
+        "calculationDate": "20171220",
+        "outstanding": 42572.0
+    },
+    {
+        "calculationDate": "20190815",
+        "outstanding": 86945.0
+    },
+    {
+        "calculationDate": "20120501",
+        "outstanding": 28792.0
+    },
+    {
+        "calculationDate": "20190228",
+        "outstanding": 34726.0
+    },
+    {
+        "calculationDate": "20130228",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20190606",
+        "outstanding": 32333.0
+    },
+    {
+        "calculationDate": "20190207",
+        "outstanding": 60546.0
+    },
+    {
+        "calculationDate": "20180315",
+        "outstanding": 28119.0
+    },
+    {
+        "calculationDate": "20140930",
+        "outstanding": 48276.0
+    },
+    {
+        "calculationDate": "20160229",
+        "outstanding": 26367.0
+    },
+    {
+        "calculationDate": "20180304",
+        "outstanding": 15112.0
+    },
+    {
+        "calculationDate": "20170228",
+        "outstanding": 98338.0
+    },
+    {
+        "calculationDate": "20130731",
+        "outstanding": 24952.0
+    },
+    {
+        "calculationDate": "20180322",
+        "outstanding": 13699.0
+    },
+    {
+        "calculationDate": "20141031",
+        "outstanding": 3696.0
+    },
+    {
+        "calculationDate": "20121201",
+        "outstanding": 6262.0
+    },
+    {
+        "calculationDate": "20191219",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20140630",
+        "outstanding": 42895.0
+    },
+    {
+        "calculationDate": "20120801",
+        "outstanding": 60736.0
+    },
+    {
+        "calculationDate": "20180830",
+        "outstanding": 127291.0
+    },
+    {
+        "calculationDate": "20200207",
+        "outstanding": 22168.0
+    },
+    {
+        "calculationDate": "20171227",
+        "outstanding": 40758.0
+    },
+    {
+        "calculationDate": "20140731",
+        "outstanding": 57938.0
+    },
+    {
+        "calculationDate": "20180621",
+        "outstanding": 16276.0
+    },
+    {
+        "calculationDate": "20140531",
+        "outstanding": 23922.0
+    },
+    {
+        "calculationDate": "20170831",
+        "outstanding": 3.0
+    },
+    {
+        "calculationDate": "20170920",
+        "outstanding": 18051.0
+    },
+    {
+        "calculationDate": "20180131",
+        "outstanding": 28767.0
+    },
+    {
+        "calculationDate": "20170913",
+        "outstanding": 16300.0
+    },
+    {
+        "calculationDate": "20180802",
+        "outstanding": 24572.0
+    },
+    {
+        "calculationDate": "20161231",
+        "outstanding": 12545.0
+    },
+    {
+        "calculationDate": "20160731",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20130831",
+        "outstanding": 23481.0
+    },
+    {
+        "calculationDate": "20130329",
+        "outstanding": 3969.0
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "calculationDate": "20230401",
+        "outstanding": 200.0
+    },
+    {
+        "calculationDate": "20230402",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20230403",
+        "outstanding": 1000.0
+    },
+    {
+        "calculationDate": "20230404",
+        "outstanding": 1100.0
+    },
+    {
+        "calculationDate": "20230405",
+        "outstanding": 900.0
+    },
+    {
+        "calculationDate": "20230406",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20230407",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20230408",
+        "outstanding": 100.0
+    },
+    {
+        "calculationDate": "20230409",
+        "outstanding": 0.0
+    },
+    {
+        "calculationDate": "20230410",
+        "outstanding": 2.0
+    }
+]
