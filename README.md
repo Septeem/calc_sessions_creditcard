@@ -19,10 +19,10 @@ end_date: datetime – дата окончания периода.
 | calcucationDate  | str  | 0  |
 | outstanding  | float  | 0  |
 
-На выходе 1 число
+На выходе 1 число.
 Примеры входных данных, которые будут подаваться на вход находятся в json файлах в папке data_example
 
-#Пример использования функции
+Пример использования функции:
 file_json = open(f"C:/Users/Septem/Downloads/data_example/777.json")
 arrears = json.load(file_json)
 start_date = datetime(2001, 1, 1)
