@@ -22,10 +22,15 @@ end_date: datetime – дата окончания периода.
 На выходе 1 число.
 Примеры входных данных, которые будут подаваться на вход находятся в json файлах в папке data_example
 
+
 Пример использования функции:
+<pre>
+```python
 file_json = open(f"C:/Users/Septem/Downloads/data_example/777.json")
 arrears = json.load(file_json)
 start_date = datetime(2001, 1, 1)
 end_date = datetime(2024, 1, 1)
 session_count = calculate_sessions(arrears, start_date, end_date)
 print(session_count)
+```
+</pre>
